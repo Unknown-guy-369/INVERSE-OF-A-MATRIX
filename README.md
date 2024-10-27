@@ -17,7 +17,7 @@ End of the Program
 ~~~
 
 #Program to find the inverse of a matrix.
-#Developed by: Abishek Priyan
+#Developed by: Abishek Priyan M
 #RegisterNumber:24900880
 
 import numpy as np
